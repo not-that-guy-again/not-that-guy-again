@@ -1,18 +1,23 @@
 # Brent Mills
 
-Director of Engineering | Platform | Infrastructure | AI Systems
+Former Wayfair and IBM engineering leader of 
+large-scale developer platforms and 
+infrastructure systems.
 
-Former Wayfair and IBM engineering leader with 17+ years building
-large-scale developer platforms and infrastructure systems.
+2x founder
 
 ---
 
 ## What I Build
 
+I build what I can't find.
+
 • Computer vision ecosystem monitoring systems  
 • Distributed mobile data collection platforms  
-• Developer infrastructure platforms  
-• AI agents and decision systems  
+• Developer infrastructure platforms
+• Federated infrastructure lifecycle platforms
+• AI agents and decision systems
+• Fun IoT home projects
 
 ---
 
@@ -21,18 +26,15 @@ large-scale developer platforms and infrastructure systems.
 ### Sophia AI
 AI agent exploring consequence-aware decision making.
 
-### Fishly
-Distributed AI-driven fishing tournament platform.
-
-### Environmental Monitoring
-Computer vision pipeline for analyzing ecosystem health.
+### BioAF
+Computational biology platform.
 
 ---
 
 ## Private Work
 
-Most of my professional work exists in private repositories
-for companies and startups.
+The vast majority of my professional work exists in private 
+repositories for companies and startups.
 
 Public repos represent experiments and open-source tools rather
 than the majority of my engineering work.

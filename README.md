@@ -14,10 +14,10 @@ I build what I can't find.
 
 • Computer vision ecosystem monitoring systems  
 • Distributed mobile data collection platforms  
-• Developer infrastructure platforms
-• Federated infrastructure lifecycle platforms
-• AI agents and decision systems
-• Fun IoT home projects
+• Developer infrastructure platforms  
+• Federated infrastructure lifecycle platforms  
+• AI agents and decision systems  
+• Fun IoT home projects  
 
 ---
 

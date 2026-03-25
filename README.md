@@ -7,7 +7,7 @@ Former Wayfair and IBM engineering leader of
 large-scale developer platforms and 
 infrastructure systems.
 
-2x founder
+2x founder, perpetual inventor
 
 ---
 
@@ -26,11 +26,14 @@ I build what I can't find.
 
 ## Featured Projects
 
+### bioAF
+Computational Biology platform for orchestrating bioinformatics pipelines, managing experimental metadata, and running reproducible compute workloads.
+
 ### Sophia AI
 AI agent exploring consequence-aware decision making.
 
-### BioAF
-Computational biology platform.
+### TheFishly (private)
+Distributed AI-driven fishing tournament platform with integrated computer vision analysis for environmental monitoring and conservation.
 
 ---
 

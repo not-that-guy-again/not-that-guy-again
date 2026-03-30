@@ -1,6 +1,6 @@
 # Brent Mills
 
-Head of Engineering with 17+ years building platform,
+Director of Engineering with 17+ years building platform,
 infrastructure, and developer experience systems at scale.
 
 Former Wayfair and IBM engineering leader of 

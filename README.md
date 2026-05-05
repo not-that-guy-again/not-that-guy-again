@@ -44,3 +44,7 @@ repositories for companies and startups.
 
 Public repos represent experiments and open-source tools rather
 than the majority of my engineering work.
+
+## Why "Not That Guy Again"?
+
+I am a passionate collector of skills and hobbies. You may run into me on forums or at events for olympic archery, fly fishing, metal detecting, bonsai, bartending, cooking, robotics, prototyping, woodworking, photography, flying, or home repair. This led to the "not that guy again" joke among friends.
